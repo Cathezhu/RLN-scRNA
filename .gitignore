@@ -16,3 +16,4 @@ figures/
 *.jpeg
 *.tif
 *.tiff
+.Rhistory
